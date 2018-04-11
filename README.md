@@ -1,5 +1,5 @@
 # WeChatCtrlSDK
- a WeChat SDK base on xposed framework，can do some cool operation 
+It's a WeChat SDK which base on xposed framework , can do some cool operation 
 # Support
 
 ### wechat version ###  
@@ -17,6 +17,7 @@
 
 ### moment ###
 <ul>
- <li>send moment（text）</li>
+ <li>send moment (text)</li>
+ <li>send moment (image / text)</li>
 </ul>
 

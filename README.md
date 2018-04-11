@@ -1,15 +1,22 @@
 # WeChatCtrlSDK
-a WeChat SDK base on xposed framework，can do some cool operation 
-
+ a WeChat SDK base on xposed framework，can do some cool operation 
 # Support
- # chat
-  send/listen text message<br/>
-  send/listen image message<br>
-  send/listen video message<br/>
-  send/listen voice message<br/>
-  listen/transmit link<br/>
-download chat image/video<br/>
 
-  
- # moment
-  send moment（text）
+### version ###  
+6.6.3 , 6.6.5 , 6.6.6
+ 
+### chat ###
+<ul>
+ <li>send/listen text message<br/></li>
+ <li>send/listen image message<br></li>
+ <li>send/listen video message<br/></li>
+ <li>send/listen voice message<br/></li>
+ <li>listen/transmit link<br/></li>
+ <li>download chat image/video<br/></li>
+</ul>
+
+### moment ###
+<ul>
+ <li>send moment（text）</li>
+</ul>
+

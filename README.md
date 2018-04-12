@@ -12,7 +12,7 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>send / listen video message<br/></li>
  <li>send / listen voice message<br/></li>
  <li>listen / transmit link<br/></li>
- <li>download chat image / video<br/></li>
+ <li>download chatting image / video<br/></li>
 </ul>
 
 ### moment ###

@@ -18,6 +18,7 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
 ### moment ###
 <ul>
  <li>send moment (text)</li>
- <li>send moment (single image / text)</li>
+ <li>send moment (image / text)</li>
+ <li>send moment (video / text)</li>
 </ul>
 

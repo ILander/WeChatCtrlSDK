@@ -7,25 +7,26 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  
 ### chat ###
 <ul>
- <li>send / listen text message<br/></li>
- <li>send / listen image message<br></li>
- <li>send / listen video message<br/></li>
- <li>send / listen voice message<br/></li>
- <li>listen / transmit link<br/></li>
- <li>download chatting (image / video)<br/></li>
+ <li>send / listen text message </li>
+ <li>send / listen image message </li>
+ <li>send / listen video message </li>
+ <li>send / listen voice message </li>
+ <li>listen / transmit link </li>
+ <li>download chatting (image / video) </li>
 </ul>
 
 ### moment ###
 <ul>
- <li>send moment text</li>
- <li>send moment (image / text)</li>
- <li>send moment (video / text)</li>
+ <li>send moment text </li>
+ <li>send moment (image / text) </li>
+ <li>send moment (video / text) </li>
 </ul>
 
 ### contacts ###
 <ul>
- <li>add / delete friend notification</li>
- <li>add / remove blocklist notification</li>
- <li>remark change notification</li>
+ <li>add / delete friend notification </li>
+ <li>add / remove blocklist notification </li>
+ <li>remark change notification </li>
+ <li>personal info </li>
 </ul>
 

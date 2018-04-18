@@ -28,5 +28,6 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>add / remove blocklist notification </li>
  <li>remark change notification </li>
  <li>personal info </li>
+ <li>get friends list </li>
 </ul>
 

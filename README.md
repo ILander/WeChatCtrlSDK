@@ -7,11 +7,11 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  
 ### chat ###
 <ul>
- <li>send/listen text message<br/></li>
- <li>send/listen image message<br></li>
- <li>send/listen video message<br/></li>
- <li>send/listen voice message<br/></li>
- <li>listen/transmit link<br/></li>
+ <li>send / listen text message<br/></li>
+ <li>send / listen image message<br></li>
+ <li>send / listen video message<br/></li>
+ <li>send / listen voice message<br/></li>
+ <li>listen / transmit link<br/></li>
  <li>download chatting (image / video)<br/></li>
 </ul>
 
@@ -24,8 +24,8 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
 
 ### contacts ###
 <ul>
- <li>add/delete friend notification</li>
- <li>add/remove blocklist notification</li>
+ <li>add / delete friend notification</li>
+ <li>add / remove blocklist notification</li>
  <li>remark change notification</li>
 </ul>
 

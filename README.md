@@ -31,3 +31,9 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>get friends list </li>
 </ul>
 
+### room ###
+<ul>
+ <li>create room </li>
+ <li>add member </li>
+</ul>
+

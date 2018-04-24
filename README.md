@@ -42,3 +42,8 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>@everyone </li>
 </ul>
 
+### friend ###
+<ul>
+ <li>agree to be a friends</li>
+</ul>
+

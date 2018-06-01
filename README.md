@@ -3,7 +3,7 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
 # Support
 
 ### wechat version ###  
-6.6.3 , 6.6.5 , 6.6.6
+6.6.3 , 6.6.5 , 6.6.6 , 6.6.7
  
 ### chat ###
 <ul>

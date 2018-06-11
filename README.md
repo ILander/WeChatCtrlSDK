@@ -11,9 +11,10 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>send / listen image message </li>
  <li>send / listen video message </li>
  <li>send / listen voice message </li>
- <li>send business card </li>
- <li>listen / transmit link </li>
+ <li>send business card message</li>
+ <li>listen / transmit link message</li>
  <li>download chatting (image / video) </li>
+ <li>listen transfer message</li>
 </ul>
 
 ### moment ###

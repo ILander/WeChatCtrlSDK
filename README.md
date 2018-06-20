@@ -16,6 +16,8 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>download chatting (image / video) </li>
  <li>listen transfer message </li>
  <li>listen red package message </li>
+ <li>listen revoke message </li>
+ <li>listen delete message </li>
 </ul>
 
 ### moment ###

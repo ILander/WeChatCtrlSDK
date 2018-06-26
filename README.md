@@ -1,6 +1,7 @@
 # WeChatCtrlSDK
 It's a WeChat SDK which base on xposed framework , can do some cool operation 
-# Support
+
+[中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese)<br/>
 
 ### wechat version ###  
 6.6.3 , 6.6.5 , 6.6.6 , 6.6.7
@@ -34,6 +35,7 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>remark change notification </li>
  <li>get personal info </li>
  <li>get friends list </li>
+ <li>agree to be a friends</li>
 </ul>
 
 ### room ###
@@ -46,8 +48,4 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>@everyone </li>
 </ul>
 
-### friend ###
-<ul>
- <li>agree to be a friends</li>
-</ul>
 

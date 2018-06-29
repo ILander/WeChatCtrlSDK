@@ -41,7 +41,6 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
 ### room ###
 <ul>
  <li>room list </li>
- <li>room info </li>
  <li>create room </li>
  <li>add member </li>
  <li>remove member </li>

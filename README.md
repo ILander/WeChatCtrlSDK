@@ -35,6 +35,7 @@ It's a WeChat SDK which base on xposed framework , can do some cool operation
  <li>remark change notification </li>
  <li>get personal info </li>
  <li>get friends list </li>
+ <li>personal info </li>
  <li>agree to be a friends</li>
 </ul>
 

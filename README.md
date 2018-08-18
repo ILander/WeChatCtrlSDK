@@ -1,7 +1,7 @@
 # WeChatCtrlSDK
 It's a WeChat SDK which base on xposed framework , can do some cool operation 
 
-[中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese)<br/>
+[中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese.md)<br/>
 
 ### wechat version ###  
 6.6.3 , 6.6.5 , 6.6.6 , 6.6.7

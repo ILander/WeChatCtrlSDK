@@ -1,5 +1,5 @@
 # WeChatCtrlSDK
-It's a WeChat SDK which base on xposed framework , can do some cool operation 
+It's a WeChat SDK which base on xposed framework  
 
 [中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese.md)<br/>
 

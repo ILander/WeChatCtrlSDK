@@ -4,7 +4,7 @@ It's a WeChat SDK which base on xposed framework
 [中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese.md)<br/>
 
 ### wechat version ###  
-6.6.3 , 6.6.5 , 6.6.6 , 6.6.7 , 6.7.2
+6.6.3 , 6.6.5 , 6.6.6 , 6.6.7 , 6.7.2 , 6.7.3
  
 ### chat ###
 <ul>
@@ -12,7 +12,7 @@ It's a WeChat SDK which base on xposed framework
  <li>send / listen image message </li>
  <li>send / listen video message </li>
  <li>send / listen voice message </li>
- <li>send business card message </li>
+ <li>send / listen business card message </li>
  <li>listen / transmit link message </li>
  <li>download chatting (image / video) </li>
  <li>listen transfer message </li>
@@ -23,9 +23,9 @@ It's a WeChat SDK which base on xposed framework
 
 ### moment ###
 <ul>
- <li>send moment text </li>
- <li>send moment (image / text) </li>
- <li>send moment (video / text) </li>
+ <li>send moment text (in background) </li>
+ <li>send moment (image / text) (in background) </li>
+ <li>send moment (video / text) (in background) </li>
 </ul>
 
 ### contacts ###

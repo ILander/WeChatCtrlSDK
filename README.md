@@ -45,7 +45,7 @@ It's a WeChat SDK which base on xposed framework
  <li>create room </li>
  <li>add member </li>
  <li>remove member </li>
- <li>@everyone </li>
+ <li>@all </li>
  <li>amend room name </li>
 </ul>
 

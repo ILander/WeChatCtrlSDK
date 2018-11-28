@@ -13,6 +13,7 @@ It's a WeChat SDK which base on xposed framework
  <li>send / listen video message </li>
  <li>send / listen voice message </li>
  <li>send / listen business card message </li>
+ <li>send offical account card message </li>
  <li>listen / transmit link message </li>
  <li>download chatting (image / video) </li>
  <li>listen transfer message </li>

@@ -38,6 +38,7 @@ It's a WeChat SDK which base on xposed framework
  <li>get friends list </li>
  <li>agree to be a friends</li>
  <li>amend remark </li>
+ <li>delete contact </li>
 </ul>
 
 ### room ###

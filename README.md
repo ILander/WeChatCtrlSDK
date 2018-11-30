@@ -34,7 +34,7 @@ It's a WeChat SDK which base on xposed framework
 <ul>
  <li>add / delete friend notification </li>
  <li>add / remove blocklist notification </li>
- <li>remark change notification </li>
+ <li>remark / nickname change notification </li>
  <li>get firends info </li>
  <li>get friends list </li>
  <li>agree to be a friends</li>

@@ -20,6 +20,7 @@ It's a WeChat SDK which base on xposed framework
  <li>listen red package message </li>
  <li>listen revoke message </li>
  <li>listen delete message </li>
+ <li>accept remittance </li>
 </ul>
 
 ### moment ###

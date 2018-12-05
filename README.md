@@ -50,6 +50,7 @@ It's a WeChat SDK which base on xposed framework
  <li>remove member </li>
  <li>@all </li>
  <li>amend room name </li>
+ <li>exit room </li>
 </ul>
 
 

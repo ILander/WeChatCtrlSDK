@@ -37,7 +37,7 @@ It's a WeChat SDK which base on xposed framework
  <li>remark / nickname change notification </li>
  <li>get firends info </li>
  <li>get friends list </li>
- <li>agree to be a friends</li>
+ <li>agree to be friends</li>
  <li>amend remark </li>
  <li>delete contact </li>
 </ul>
@@ -51,6 +51,7 @@ It's a WeChat SDK which base on xposed framework
  <li>@all </li>
  <li>amend room name </li>
  <li>exit room </li>
+ <li>at one </li>
 </ul>
 
 

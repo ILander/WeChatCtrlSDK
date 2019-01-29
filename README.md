@@ -51,7 +51,7 @@ It's a WeChat SDK which base on xposed framework
  <li>@all </li>
  <li>amend room name </li>
  <li>exit room </li>
- <li>at one </li>
+ <li>@somebody </li>
 </ul>
 
 

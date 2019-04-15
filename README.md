@@ -1,57 +1,56 @@
+
 # WeChatCtrlSDK
-It's a WeChat SDK which base on xposed framework  
+ 将微信的某些功能封装为 SDK ，提供给 Xposed 模块开发者使用
 
-[中文](https://github.com/JYongDev/WeChatCtrlSDK/blob/master/README_Chinese.md)<br/>
-
-### wechat version ###  
+### 支持微信版本 ###  
 6.6.3 , 6.6.5 , 6.6.6 , 6.6.7 , 6.7.2 , 6.7.3 , 7.0.0 , 7.0.3
  
-### chat ###
+### 聊天 ###
 <ul>
- <li>send / listen text message </li>
- <li>send / listen image message </li>
- <li>send / listen video message </li>
- <li>send / listen voice message </li>
- <li>send / listen business card message </li>
- <li>send offical account card message </li>
- <li>listen / transmit link message </li>
- <li>download chatting (image / video) </li>
- <li>listen transfer message </li>
- <li>listen red package message </li>
- <li>listen revoke message </li>
- <li>listen delete message </li>
- <li>accept remittance </li>
+ <li>发送 / 接收文字消息 </li>
+ <li>发送 / 接收图片消息 </li>
+ <li>发送 / 接收视频消息 </li>
+ <li>发送 / 接收语音消息 </li>
+ <li>发送 / 接收名片消息 </li>
+ <li>发送公众号名片 </li>
+ <li>接收 / 转发链接消息 </li>
+ <li>下载聊天文件 (图片 / 视频) </li>
+ <li>接收转账消息 </li>
+ <li>接收红包消息 </li>
+ <li>接收撤回消息 </li>
+ <li>接收删除消息 </li>
+ <li>接受转账 </li>
 </ul>
 
-### moment ###
+### 朋友圈 ###
 <ul>
- <li>send moment text (in background) </li>
- <li>send moment (image / text) (in background) </li>
- <li>send moment (video / text) (in background) </li>
+ <li>发送朋友圈（文字） (后台发送) </li>
+ <li>发送朋友圈 (图片 / 文字) (后台发送) </li>
+ <li>发送朋友圈 (视频 / 文字) (后台发送) </li>
 </ul>
 
-### contacts ###
+### 好友 ###
 <ul>
- <li>add / delete friend notification </li>
- <li>add / remove blocklist notification </li>
- <li>remark / nickname change notification </li>
- <li>get firends info </li>
- <li>get friends list </li>
- <li>agree to be friends</li>
- <li>amend remark </li>
- <li>delete contact </li>
+ <li>添加 / 删除好友通知 </li>
+ <li>添加 / 移除黑名单通知 </li>
+ <li>更改备注 / 昵称通知 </li>
+ <li>好友个人信息 </li>
+ <li>好友列表 </li>
+ <li>被动接受好友请求 </li>
+ <li>修改备注 </li>
+ <li>删除好友 </li>
 </ul>
 
-### room ###
+### 群聊 ###
 <ul>
- <li>room list </li>
- <li>create room </li>
- <li>add member </li>
- <li>remove member </li>
- <li>@all </li>
- <li>amend room name </li>
- <li>exit room </li>
- <li>@somebody </li>
+ <li>群列表 </li>
+ <li>创建群 </li>
+ <li>添加群成员 </li>
+ <li>移除群成员 </li>
+ <li>@所有人（群公告） </li>
+ <li>修改群名 </li>
+ <li>退出群聊 </li>
+ <li>@某人</li>
 </ul>
 
 

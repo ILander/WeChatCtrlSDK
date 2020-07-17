@@ -1,4 +1,4 @@
-[新仓库](https://github.com/JYongDev/WXPluginSDK_Dev
+[新仓库](https://github.com/JYongDev/WXPluginSDK_Dev)
 
 # WeChatCtrlSDK
  使用Xposed hook 微信的例子

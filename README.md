@@ -7,4 +7,4 @@
  
  实现发送消息，发朋友圈，群聊管理等
 
- 新代码库：[新仓库](https://github.com/JYongDev/WeChatCtrlSDK_Dev)
+ 新代码库：[WeChatCtrlSDK_Dev](https://github.com/JYongDev/WeChatCtrlSDK_Dev)
